@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:mycoso/expenses.dart';
+import 'package:mycoso/widgets/expenses.dart';
 
 void main() {
   runApp(
